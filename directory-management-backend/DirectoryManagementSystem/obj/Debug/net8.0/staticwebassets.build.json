@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TSJ2xXOdymKupq39yTgDo2VMPeOZnyhMt7HBdCVCxjk=",
+  "Source": "DirectoryManagementSystem",
+  "BasePath": "_content/DirectoryManagementSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

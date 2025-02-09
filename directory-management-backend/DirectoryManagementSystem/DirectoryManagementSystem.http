@@ -1,0 +1,6 @@
+@DirectoryManagementSystem_HostAddress = http://localhost:5245
+
+GET {{DirectoryManagementSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
