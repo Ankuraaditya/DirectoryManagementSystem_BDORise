@@ -85,7 +85,7 @@ The project includes two tables:
 ### 1. Clone the Repository
 
 ```sh
- git clone <repository_url>
+ git clone <https://github.com/Ankuraaditya/DirectoryManagementSystem_BDORise>
  cd directory-management-system
 ```
 
